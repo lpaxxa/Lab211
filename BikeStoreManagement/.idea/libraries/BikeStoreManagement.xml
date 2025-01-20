@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="BikeStoreManagement">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/dist/BikeStoreManagement.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

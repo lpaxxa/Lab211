@@ -1,0 +1,15 @@
+A014,Masterpiece,Colnago,Road Bikes,2011,2500.00 
+A567,Hahahihihoho,Trek,Road Bikes,1999,2024.00 
+A010,Speed Demon,Pinarello,Road Bikes,2015,2000.00 
+A456,Afjsdnf,Trek,Hybrid Bikes,1999,1999.00 
+A745,Shdb,Trek,Hybrid Bikes,1871,1999.00 
+A789,Santa Cruz,Brompton,Folding Bikes,2000,1988.00 
+A020,Old Long Haul,Bianchi,Touring Bikes,1888,1888.00 
+A015,Enduro Orbea,Orbea,Electric Bikes (E-bikes),2010,1800.00 
+A011,Trail King,Merida,Mountain Bikes,2014,1400.00 
+A006,Adventure Scott,Scott,Gravel Bikes,2019,1100.00 
+A013,Fast Lane,Fuji,Road Bikes,2027,60000
+A017,Antique Trailblazer,Specialized,Mountain Bikes,2024,50000
+A016,Classic Ride,Trek,Road Bikes,2025,40000
+A128,Speed Demon,Trek,Hybrid Bikes,2026,30000 
+
